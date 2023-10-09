@@ -2,7 +2,7 @@
 This is a 3-level obstacle rush game built in Unity via C#.
 
 all the .cs files have the C# code used in the project.
-These are the C# scripts that set the logic rules and physics of the game using C#.
+These are the C# scripts that set the logic rules and physics of the game.
 
 Credits.cs: This script will terminate the game after it is over.
 EndTrigger.cs: This script will use a method as a trigger method from unity to the end level.
